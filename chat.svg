@@ -299,7 +299,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="440" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
 <text x="15" y="27">Data aspirant passionate about analytics,engineering</text>
 <text x="15" y="50">Believes in data, verifies in SQL🤣</text>
 
@@ -328,7 +328,7 @@
     <rect width="380" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on LinkedIn at
-      <a xlink:href="https://www.linkedin.com/in/logeshmuthusamy/">Logeshmuthusamy </a>
+      <a xlink:href="https://www.linkedin.com/in/logeshmuthusamy/">Logesh</a>
     </text>
   </g>
 </svg>
